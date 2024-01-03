@@ -21,3 +21,8 @@ Sales & inventory data for a fictitious chain of toy stores in Mexico called Mav
 
 ## Store Dashboard
 ![Store Dashboard](https://github.com/Smaryam2000/Maven-Toys-Analysis-/assets/95539175/46033c11-ddc8-483a-a24c-6185e172416d)
+
+##Insight
+1. From the dashboard, the Downtown giving profitable about RM2.2M compare to Airport that giving about RM0.4M
+2. Toys are most selling category based on customers' orders. So it would be more sense to stockup more on toys.
+3. Maven Toys Mexicali 2 and Maven Toys La Paz 1 stores had the highest frequency of out of stock transactions. Due to this out of stock, both store had sales lost which can be calculated using this formula. "Out of stock count" X "Average transaction price per item". They may some other factor affected to this sales lost.
